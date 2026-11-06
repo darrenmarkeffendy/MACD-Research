@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+scipy
+backtesting>=0.6
+binance-connector
+matplotlib
+jupyter
